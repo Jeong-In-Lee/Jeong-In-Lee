@@ -18,7 +18,7 @@ Experienced|![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=
 ## 💻 Projects
 |프로젝트 명|내용|파트|기술|시기|링크|
 |:---:|:----------------------------------:|:---:|:---:|:---:|:---:|
-|ProjectBTS|총알 탄 사나이 - 총알로 이동과 텔레포트를 동시에 하는 아케이드 슈터 게임 <CIEN(중앙대학교 게임동아리)> Bullet Teleport Shooter Project (BTS)|맵개발|Unity|2021년|https://github.com/melunbettle/ProjectBTS|
+|ProjectBTS|총알 탄 사나이 - 총알로 이동과 텔레포트를 동시에 하는 아케이드 슈터 게임 <CIEN(중앙대학교 게임동아리)> Bullet Teleport Shooter Project (BTS)|맵개발|Unity|2021|https://github.com/melunbettle/ProjectBTS|
 |oop|directX 를 이용한 버블팝 게임 - 같은 색깔 구슬 3개가 모이면 터지는 게임|-|C++|2022|https://github.com/Jeong-In-Lee/realperfectoop4|
 |ITS|이슈 관리 시스템|backend db파트|Springboot|2024|https://github.com/SoftwareEngineering-21/issue_mng_prg|
 |narae|Narae is an llm-powered mentoring service designed to enhance user learning in software development fields such as backend and frontend development.|backend|FastAPI|2024|https://github.com/cau-oss-team3/narae-backend|
