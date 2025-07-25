@@ -6,6 +6,10 @@ Hi, this is README for JeongInLee.
 ## ✏️ Education
 [2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering
 
+## 📚 Certification
+- TOEIC 775
+- 한자급수자격검정 4급
+
 ## 🛠️ Tech skill
 |Proficiency|Skills|
 |:---:|:---:|
