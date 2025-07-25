@@ -19,14 +19,14 @@ Experienced|![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=
 |프로젝트 명|내용|파트|기술|시기|링크|
 |:---:|:----------------------------------:|:---:|:---:|:---:|:---:|
 |ProjectBTS|총알 탄 사나이 - 총알로 이동과 텔레포트를 동시에 하는 아케이드 슈터 게임 <CIEN(중앙대학교 게임동아리)> Bullet Teleport Shooter Project (BTS)|맵개발|Unity|2021년|https://github.com/melunbettle/ProjectBTS|
-|oop|driveX|-|C++|2022|https://github.com/Jeong-In-Lee/realperfectoop4|
+|oop|directX 를 이용한 버블팝 게임 - 같은 색깔 구슬 3개가 모이면 터지는 게임|-|C++|2022|https://github.com/Jeong-In-Lee/realperfectoop4|
 |ITS|이슈 관리 시스템|backend db파트|Springboot|2024|https://github.com/SoftwareEngineering-21/issue_mng_prg|
 |narae|Narae is an llm-powered mentoring service designed to enhance user learning in software development fields such as backend and frontend development.|backend|FastAPI|2024|https://github.com/cau-oss-team3/narae-backend|
-|인용해용(Quill Them All)||backend, frontend, AI prompting|FastAPI, Kotlin(Jetpack Compose), OpenAI|2024|https://github.com/Capstoneproject-2024/front <br>https://github.com/Capstoneproject-2024/api_server<br>https://github.com/Capstoneproject-2024/useGPT|
-|Space Station(우주정거장)|학생들이 공강 시간에 머무를 수 있는 강의실을 찾아주는 모바일 앱|fronttend(시간표 파트)|Kotlin(Jetpack Compose)|2024|https://github.com/mobile-dev-2024/Space-station|
+|인용해용(Quill Them All)|독서 리뷰 커뮤니티 모바일 앱 - 친구들과 ai 가 던져준 심도 깊은 질문의 답을 인용 문구로 공유하고 '인용해용' 자체 추천 알고리즘으로 취향이 비슷한 사람들이 읽은 책을 추천받는 앱|backend, frontend, AI prompting|FastAPI, Kotlin(Jetpack Compose), OpenAI|2024|https://github.com/Capstoneproject-2024/front <br>https://github.com/Capstoneproject-2024/api_server<br>https://github.com/Capstoneproject-2024/useGPT|
+|Space Station(우주정거장)|학생들이 공강 시간에 머무를 수 있는 강의실을 찾아주는 모바일 앱|frontend(시간표 파트)|Kotlin(Jetpack Compose)|2024|https://github.com/mobile-dev-2024/Space-station|
 |woowacourse precourse|우아한 테크 코스 precourse 참여 코드 모음.|-|Java|2024|https://github.com/Jeong-In-Lee/java-convenience-store-7-Joeng-In-Lee<br>https://github.com/Jeong-In-Lee/java-lotto-7<br>https://github.com/Jeong-In-Lee/java-racingcar-7<br>https://github.com/Jeong-In-Lee/java-calculator-7|
-|Cinderella|동아리 방 키오스크 운용 및 교내 서류 폼 작성 자동화 관리 웹 서비스 <CIEN(중앙대학교 게임동아리)>|frontend|React, tailwind-css|2025|중앙정렬|
-|capstone2|머신러닝을 통해 주변 네트워크를 분석하여 수상한 기기가 있는지 확인하고, 삼변측량을 통해 수상한 기기의 위치를 찾는 모바일 앱|backend, frontend, PM|FastAPI, Kotlin(Jetpack Compose)|2025|https://github.com/2025-Capstone-2/front<br>https://github.com/2025-Capstone-2/backend|
+|Cinderella|동아리 방 키오스크 운용 및 교내 서류 폼 작성 자동화 관리 웹 서비스 <CIEN(중앙대학교 게임동아리)>|frontend|React, tailwind-css|2025|private (추후 전환 예정)|
+|capstone2|머신러닝을 통해 주변 네트워크를 분석하여 수상한 기기가 있는지 확인하고, 삼변측량을 통해 수상한 기기의 위치를 찾는 모바일 앱|backend, frontend|FastAPI, Kotlin(Jetpack Compose)|2025|https://github.com/2025-Capstone-2/front<br>https://github.com/2025-Capstone-2/backend|
 
 <!-- bts / 객지프 게임 / 소공 / 오픈소스sw / 캡스톤1 / 캡스톤2 / 우주정거장 / 신데렐라 / 우테코sub코스 -->
 
