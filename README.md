@@ -13,7 +13,7 @@ Proficient|![python](https://img.shields.io/badge/Python-3776AB?style=for-the-ba
 Experienced|![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![c++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  <img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white" />
 
 <!-- 언어 사용 통계-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-In-Lee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong-In-Lee&exclude_repo=oop44444444444444,unRootedSample,oop3&layout=compact)
 
 ## 💻 Projects
 |프로젝트 명|내용|파트|기술|시기|링크|
