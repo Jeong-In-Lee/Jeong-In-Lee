@@ -34,3 +34,7 @@ Experienced|![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=
 
 <!-- bts / 객지프 게임 / 소공 / 오픈소스sw / 캡스톤1 / 캡스톤2 / 우주정거장 / 신데렐라 / 우테코sub코스 -->
 
+## 코딩테스트 준비
+* 다양한 사이트에서 풀었던 코테 문제 기록 : (https://github.com/Jeong-In-Lee/codingpractice) <br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd355301)](https://solved.ac/abcd355301)
+
