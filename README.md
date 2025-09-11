@@ -8,6 +8,7 @@ Hi, this is README for JeongInLee.
 
 ## 📚 Certification
 - TOEIC 775
+- TOEIC Speaking IH
 - 한자급수자격검정 4급
 
 ## 🛠️ Tech skill
