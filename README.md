@@ -7,9 +7,13 @@ Hi, this is README for JeongInLee.
 [2021.03 ~ 26.02]: Chung-Ang Univeristy Computer Science & Software Engineering
 
 ## 📚 Certification
+- 정보처리기사
+- SQLD
+- TOPCIT 605
 - TOEIC 775
 - TOEIC Speaking IH
 - 한자급수자격검정 4급
+- 자동자운전면허 2종 보통
 
 ## 🛠️ Tech skill
 |Proficiency|Skills|
