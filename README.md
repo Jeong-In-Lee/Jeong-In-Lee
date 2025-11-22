@@ -36,10 +36,11 @@ Experienced|![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=
 |woowacourse precourse|우아한 테크 코스 precourse 참여 코드 모음.|-|Java|2024|https://github.com/Jeong-In-Lee/java-convenience-store-7-Joeng-In-Lee<br>https://github.com/Jeong-In-Lee/java-lotto-7<br>https://github.com/Jeong-In-Lee/java-racingcar-7<br>https://github.com/Jeong-In-Lee/java-calculator-7|
 |Cienderella|동아리 방 키오스크 운용 및 교내 서류 폼 작성 자동화 관리 웹 서비스 <CIEN(중앙대학교 게임동아리)>|frontend|React, tailwind-css|2025|https://github.com/Jeong-In-Lee/CIENderellaCopy|
 |잡아라|머신러닝을 통해 주변 네트워크를 분석하여 수상한 기기가 있는지 확인하고, 삼변측량을 통해 수상한 기기의 위치를 찾는 모바일 앱|backend, frontend|FastAPI, Kotlin(Jetpack Compose)|2025|https://github.com/2025-Capstone-2/front<br>https://github.com/2025-Capstone-2/backend|
+|팩맨게임|설계 패턴을 이용하여 기존 오픈소스 게임을 확장하는 프로젝트|backend|Java|2025|https://github.com/dzcoffee/DP_Pacman|
 
 <!-- bts / 객지프 게임 / 소공 / 오픈소스sw / 캡스톤1 / 캡스톤2 / 우주정거장 / 신데렐라 / 우테코sub코스 -->
-
+<!--
 ## 코딩테스트 준비
 * 다양한 사이트에서 풀었던 코테 문제 기록 : (https://github.com/Jeong-In-Lee/codingpractice) <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd355301)](https://solved.ac/abcd355301)
-
+-->
