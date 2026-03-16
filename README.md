@@ -14,6 +14,7 @@ Hi, this is README for JeongInLee.
 - TOEIC Speaking IH
 - 한자급수자격검정 4급
 - 자동자운전면허 2종 보통
+- JLPT n3
 
 ## 🛠️ Tech skill
 |Proficiency|Skills|
